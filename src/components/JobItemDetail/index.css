@@ -1,0 +1,70 @@
+.job-detail-card {
+  background-color: #272727;
+  border-radius: 20px;
+  padding: 20px;
+  font-family: roboto;
+
+  margin: 25px;
+}
+.job-detail-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.skills-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.skill {
+  color: #f8fafc;
+}
+.skill-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.skills {
+  color: #ffffff;
+}
+.life {
+  display: flex;
+}
+.row3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.link-logo {
+  color: #4f46e5;
+  margin-left: 7px;
+}
+a {
+  color: #4f46e5;
+  display: flex;
+  align-items: center;
+}
+
+.similar-job-card {
+  background-color: #272727;
+  border-radius: 20px;
+  width: 400px;
+  padding: 20px;
+  font-family: roboto;
+  margin-bottom: 20px;
+  margin-right: 40px;
+}
+.similar-job-heading {
+  color: #ffffff;
+  font-size: 25px;
+  margin-left: 25px;
+}
+.similar-job-list{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+}

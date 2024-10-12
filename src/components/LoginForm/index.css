@@ -1,0 +1,81 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  height: 400px;
+  width: 450px;
+  border-radius: 10px;
+  padding: 20px;
+  font-family: roboto;
+  text-align: center;
+}
+
+.login-logo {
+  height: 70px;
+  align-self: center;
+  padding: 10px;
+}
+
+.loginform-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #000000;
+}
+
+.input-label {
+  color: #f1f5f9;
+  padding: 7px;
+  text-align: left;
+}
+
+.username-input-field {
+  background-color: transparent;
+  border: 1px solid #b6c5ff;
+  color: #cbd5e1;
+  width: 90%;
+  margin-left: 10px;
+  height: 40px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.username-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.password-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.password-input-field {
+  background-color: transparent;
+  border: 1px solid #b6c5ff;
+  color: #cbd5e1;
+  width: 90%;
+  margin-left: 10px;
+  height: 40px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.login-btn {
+  background-color: #4f46e5;
+  color: #f1f5f9;
+  border-radius: 10px;
+  align-self: center;
+  margin-top: 10px;
+  width: 90%;
+  height: 40px;
+  border: 0px;
+}
+
+.error-message {
+  color: #ff0b37;
+}

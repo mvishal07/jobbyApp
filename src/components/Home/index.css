@@ -1,0 +1,31 @@
+.home-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  height: 120vh;
+  background-size: cover;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 9vh;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.sub-heading {
+  color: #f8fafc;
+  font-family: 'roboto';
+  padding: 10px;
+  margin-left: 20px;
+  font-size: 20px;
+}
+.find-btn {
+  background-color: #6366f1;
+  border: 0px;
+  width: 110px;
+  padding: 7px;
+  border-radius: 7px;
+  height: 40px;
+  color: #f8fafc;
+  margin-left: 25px;
+}

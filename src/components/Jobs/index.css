@@ -1,0 +1,151 @@
+.job-card {
+  background-color: #272727;
+  border-radius: 20px;
+
+  padding: 20px;
+  font-family: roboto;
+  margin-bottom: 20px;
+}
+
+.row1 {
+  display: flex;
+  align-items: center;
+}
+.company-logo {
+  height: 70px;
+  margin-right: 20px;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 25px;
+}
+.rating {
+  color: #f8fafc;
+}
+.row-2 {
+  display: flex;
+  align-items: center;
+}
+
+.loc {
+  font-family: roboto;
+  color: #f1f5f9;
+  margin-right: 20px;
+}
+
+.package {
+  font-family: roboto;
+  color: #f1f5f9;
+  margin-right: 20px;
+  font-size: large;
+}
+.job {
+  font-family: roboto;
+  color: #f1f5f9;
+  margin-right: 20px;
+}
+
+hr {
+  border-color: #b6c5ff;
+}
+.description {
+  color: #f1f5f9;
+  font-family: roboto;
+  font-size: 15px;
+}
+.desc {
+  color: #f8fafc;
+  font-family: roboto;
+}
+
+.job-container {
+  overflow: auto;
+}
+
+.searchbar {
+  border: 1px solid #b6c5ff;
+  width: 400px;
+  margin-left: 40px;
+  border-radius: 5px;
+
+  margin-bottom: 20px;
+  margin-top: 20px;
+  display: flex;
+
+  align-items: center;
+}
+.search {
+  background-color: transparent;
+  padding: 10px;
+  border: 0px;
+  outline: none;
+  color: #f8fafc;
+  width: 92%;
+}
+.star {
+  color: #fbbf24;
+  margin-right: 10px;
+}
+.location-icon {
+  color: #f1f5f9;
+  font-size: 25px;
+}
+.job-icon {
+  color: #f1f5f9;
+  font-size: 20px;
+  margin-right: 8px;
+}
+.rating-card {
+  display: flex;
+  align-items: center;
+}
+.location {
+  display: flex;
+  align-items: center;
+}
+.job-type {
+  display: flex;
+  align-items: center;
+}
+.search-icon {
+  color: #64748b;
+}
+
+button {
+  background-color: #272727;
+  border: 0px;
+  width: 8%;
+  padding: 10px;
+}
+
+.link {
+  text-decoration: none;
+  list-style: none;
+}
+
+.loader-container {
+  text-align: center;
+  margin-top: 25%;
+}
+.retry-btn {
+  background-color: #6366f1;
+  border: 0px;
+  width: 110px;
+  padding: 7px;
+  border-radius: 7px;
+  height: 40px;
+  color: #f8fafc;
+}
+.failure-h {
+  color: #ffffff;
+}
+.failure-p {
+  color: #f8fafc;
+}
+.failure-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

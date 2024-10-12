@@ -1,0 +1,13 @@
+.salary {
+  color: #f1f5f9;
+  font-family: roboto;
+}
+
+label {
+  color: #f8fafc;
+  margin-left: 7px;
+}
+
+.salary-list {
+  margin-bottom: 10px;
+}
