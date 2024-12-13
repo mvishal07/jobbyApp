@@ -27,14 +27,17 @@
 
 
 <summary>Home Route</summary>
+
 ![Screenshot 2024-12-13 191123](https://github.com/user-attachments/assets/9081cf61-f641-4a8f-9200-c553f107f120)
 
 
 <summary>Jobs Route</summary>
+
 ![Screenshot 2024-12-13 191109](https://github.com/user-attachments/assets/33b950ce-cc25-48fa-9ed2-555421f53828)
 
 
 <summary>Job Item Details Route</summary>
+
 ![Screenshot 2024-12-13 191307](https://github.com/user-attachments/assets/bd59d426-6de3-48ec-9db0-565a8c141edd)
 
 
